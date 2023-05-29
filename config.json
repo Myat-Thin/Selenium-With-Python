@@ -1,0 +1,19 @@
+{
+    "Login_url" : "http://103.203.132.252:8080/login",
+    "Username" : "qcadmin",
+    "Password" : "password",
+    "Login_button_xpath" : "/html/body/div/div/div/div/div/form/div/div[3]/button",
+    "Create_Order" : "http://103.203.132.252:8080/admin/order-management/create",   
+    "Township_name" : "Hlaing",
+    "Category" : "Online",
+    "Brand_name":"MaharNETHLG",
+    "Service_Plan":"Home Plan - 20 Mbps",
+    "Service_Type":"Monthly Prepaid - 20 Mbps - 24,500 MMK/month",
+    "Name":"Testing Customer by QA",
+    "NRC" : "0000",
+    "Phone1" : "09889876567",
+    "Phone2" : "09189876567",
+    "Address" : "Ygn",
+    "Remark":"Remark from Customers"
+    
+}
